@@ -1,0 +1,11 @@
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.exe.config
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.exe
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.pdb
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.exe
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.pdb
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Form1.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Permiso.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Properties.Resources.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csproj.GenerateResource.Cache
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Usuarios.resources

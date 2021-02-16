@@ -1,0 +1,31 @@
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\bin\Debug\Permisos.exe.config
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\bin\Debug\Permisos.exe
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\bin\Debug\Permisos.pdb
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.Form1.resources
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.Properties.Resources.resources
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.csproj.GenerateResource.Cache
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.exe
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.pdb
+c:\users\heydi\onedrive\documentos\visual studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.Permiso.resources
+C:\Users\heydi\OneDrive\Documentos\Visual Studio 2012\Projects\Permisos\Permisos\obj\Debug\Permisos.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\Permisos\Permisos\bin\Debug\Permisos.exe.config
+C:\Users\elect\Desktop\Permisos\Permisos\bin\Debug\Permisos.exe
+C:\Users\elect\Desktop\Permisos\Permisos\bin\Debug\Permisos.pdb
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.csprojAssemblyReference.cache
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.Form1.resources
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.Permiso.resources
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.Properties.Resources.resources
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.csproj.GenerateResource.cache
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.exe
+C:\Users\elect\Desktop\Permisos\Permisos\obj\Debug\Permisos.pdb
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.exe.config
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.exe
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.pdb
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.exe
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\bin\Debug\Permisos.pdb
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.csprojResolveAssemblyReference.cache
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Form1.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Permiso.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Properties.Resources.resources
+C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.csproj.GenerateResource.Cache
