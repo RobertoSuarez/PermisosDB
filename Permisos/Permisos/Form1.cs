@@ -132,15 +132,28 @@ namespace Permisos
             // list data bases
             if (radioButton2.Checked) { 
                 Lista_User_DB.Columns[0].HeaderText = "Bases de datos";
-                
-                    //users.GroupBy(x => x.Value).Select(x => x.FirstOrDefault());
-                                   
-                foreach (var i in users.Values)
+
+                //users.GroupBy(x => x.Value).Select(x => x.FirstOrDefault());
+
+                Dictionary<string, string> dbname = new Dictionary<string, string>();
+
+                foreach (var user in users)
                 {
-                    foreach (var j in i) { 
-                        Lista_User_DB.Rows.Add(j.ToString());
+                    foreach (var namedb in user.Value) {
+                        
+                        // no contiene la clave
+                        if (!dbname.ContainsKey(namedb.ToString())) {
+                            Lista_User_DB.Rows.Add(namedb.ToString());
+                            dbname.Add(namedb.ToString(), namedb.ToString());
+                            
+                        }
+                        
                     }
                 }
+                //MessageBox.Show(dbname.ToString());
+
+            
+
 
             }
 

@@ -9,3 +9,15 @@ C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos
 C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csproj.GenerateResource.Cache
 C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csprojResolveAssemblyReference.cache
 C:\Users\heydi\Downloads\Nueva carpeta (13)\Permisos\Permisos\obj\Debug\Permisos.Usuarios.resources
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\bin\Debug\Permisos.exe.config
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\bin\Debug\Permisos.exe
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\bin\Debug\Permisos.pdb
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csprojAssemblyReference.cache
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.Form1.resources
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.Permiso.resources
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.Properties.Resources.resources
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.Usuarios.resources
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csproj.GenerateResource.cache
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos de Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.exe
+C:\Users\elect\Desktop\Permisos\PermisosDB\Permisos\Permisos\obj\Debug\Permisos.pdb

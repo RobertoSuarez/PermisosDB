@@ -21,7 +21,7 @@ namespace Permisos
         {
             try
             {
-                connection = new SqlConnection(@"Data Source=LAPTOP-4ENICVGV;Initial Catalog=Master;Integrated Security=True");
+                connection = new SqlConnection(@"Data Source=DESKTOP-1AS9A9N\SQLEXPRESS;Initial Catalog=Master;Integrated Security=True");
             }
             catch (Exception ex)
             {
