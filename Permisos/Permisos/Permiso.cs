@@ -56,7 +56,14 @@ namespace Permisos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            con.ExecuteInstruction("use " + comboBox3.SelectedItem.ToString() + " create user " + comboBox2.SelectedItem.ToString() + " for login Heydi");
+            var value = con.ExecuteInstruction("use " + comboBox3.SelectedItem.ToString() + " create user " + comboBox2.SelectedItem.ToString() + " for login " + comboBox2.SelectedItem.ToString()); // modifique esto
+            if (value != string.Empty) {
+                MessageBox.Show(value);
+                this.Close();
+                return;
+            }
+            MessageBox.Show("Tarea completada");
+            this.Close();
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
@@ -71,7 +78,15 @@ namespace Permisos
 
         private void button2_Click(object sender, EventArgs e)
         {
-            con.ExecuteInstruction("use " + comboBox1.SelectedItem.ToString() + " drop user " + comboBox2.SelectedItem.ToString());
+            var value = con.ExecuteInstruction("use " + comboBox1.SelectedItem.ToString() + " drop user " + comboBox2.SelectedItem.ToString());
+            if (value != string.Empty)
+            {
+                MessageBox.Show(value);
+                this.Close();
+                return;
+            }
+            MessageBox.Show("Tarea completada");
+            this.Close();
         }
 
         private void Permiso_FormClosed(object sender, FormClosedEventArgs e)

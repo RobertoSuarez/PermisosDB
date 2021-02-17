@@ -42,18 +42,34 @@ namespace Permisos
             connection.Open();
             cmd = new SqlCommand(query, connection);
             var da = new SqlDataAdapter(cmd);
-            da.Fill(dt);
+            try
+            {
+                da.Fill(dt);
+            }
+            catch (Exception e) {
+                //throw new Exception("Mensaje: ", e);
+                connection.Close();
+
+                return null;
+            }
             connection.Close();
 
             return dt;
         }
 
-        public void ExecuteInstruction(string query)
+        public string ExecuteInstruction(string query)
         {
             connection.Open();
             cmd = new SqlCommand(query, connection);
-            cmd.ExecuteNonQuery();
+            try {
+                cmd.ExecuteNonQuery();
+            } catch (Exception e) {
+                connection.Close();
+
+                return e.Message;
+            }
             connection.Close();
+            return "";
         }
 
         public void CloseConnection()

@@ -43,7 +43,7 @@ namespace Permisos
         }
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-
+            radioButton1_CheckedChanged(sender, e);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -116,7 +116,8 @@ namespace Permisos
             // si no existe la columna la crea.
             if (!Lista_User_DB.Columns.Contains("Elemento")) {
                 Lista_User_DB.Columns.Add("Elemento", "elemento");
-            } 
+
+            }
 
             // listar usuarios
             if (radioButton1.Checked) {
@@ -130,7 +131,7 @@ namespace Permisos
             }
             
             // list data bases
-            if (radioButton2.Checked) { 
+            if (radioButton2.Checked) {
                 Lista_User_DB.Columns[0].HeaderText = "Bases de datos";
 
                 //users.GroupBy(x => x.Value).Select(x => x.FirstOrDefault());
@@ -143,17 +144,14 @@ namespace Permisos
                         
                         // no contiene la clave
                         if (!dbname.ContainsKey(namedb.ToString())) {
+                            // Agregamos al datagridview
                             Lista_User_DB.Rows.Add(namedb.ToString());
                             dbname.Add(namedb.ToString(), namedb.ToString());
                             
                         }
-                        
                     }
                 }
-                //MessageBox.Show(dbname.ToString());
-
-            
-
+                
 
             }
 
@@ -165,6 +163,14 @@ namespace Permisos
             Usuarios nuevo = new Usuarios();
             nuevo.ShowDialog();
             nuevo.Refresh();
+            this.Form1_Load(sender, e);
+            Lista_User_DB.Rows.Clear();
+            dataGridView2.Rows.Clear();
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
